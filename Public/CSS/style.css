@@ -1,0 +1,8 @@
+
+body {
+  box-sizing: border-box;
+  min-width: 100vw;
+  min-height: 100vh;
+  background: radial-gradient(#470169, #2c0141, #000000);
+
+}
